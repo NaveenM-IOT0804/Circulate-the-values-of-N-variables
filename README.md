@@ -24,4 +24,4 @@ n=eval(input())
 ```
 ## Output:
 ![output](circulate.png)
-## Result: Thus the swapping of two values are successfully executed
+## Result: Thus the program successfully executed
