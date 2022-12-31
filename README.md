@@ -23,5 +23,5 @@ l=eval(input())
 n=eval(input())
 ```
 ## Output:
-![output](circulate.png)
+![circulate](https://user-images.githubusercontent.com/117974950/210137899-30cd3d61-f33e-493d-bf3a-39dcec58e666.png)
 ## Result: Thus the program successfully executed
